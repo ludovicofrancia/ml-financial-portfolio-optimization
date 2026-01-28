@@ -193,6 +193,8 @@ Metric: **Mean Squared Error (MSE)**
 
 ### Random Forest Portfolio
 
+![Random Forest - Portfolio Performance](images/random_forest_portfolio_performance.png)
+
 - **+1.35% annual excess return**
 - **−0.22% annual volatility**
 - Higher Sharpe Ratio
@@ -201,6 +203,8 @@ Metric: **Mean Squared Error (MSE)**
 📌 *Best overall performer*
 
 ### LSTM Portfolio
+
+![LSTM - Portfolio Performance](images/lstm_portfolio_performance.png)
 
 - Lower volatility
 - Lower average return
